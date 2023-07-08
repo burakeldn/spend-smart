@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "title": "Banana",
+        "price": 15,
+        "category": "foods",
+        "image": "./image/banana.png"
+    },
+    {
+        "id": 2,
+        "title": "Apple",
+        "price": 10,
+        "category": "foods",
+        "image": "./image/apple.png"
+    },
+    {
+        "id": 3,
+        "title": "iPhone",
+        "price": 3000,
+        "category": "electronic devices",
+        "image": "./image/iPhone.png"
+    },
+    {
+        "id": 4,
+        "title": "Laptop",
+        "price": 9000,
+        "category": "electronic devices",
+        "image": "./image/laptop.png"
+    },
+    {
+        "id": 5,
+        "title": "BMW",
+        "price": 25000,
+        "category": "cars",
+        "image": "./image/bmw.png"
+    },
+    {
+        "id": 6,
+        "title": "Honda",
+        "price": 28000,
+        "category": "cars",
+        "image": "./image/honda.png"
+    },
+    {
+        "id": 7,
+        "title": "Pizza",
+        "price": 28,
+        "category": "foods",
+        "image": "./image/pizza.png"
+    },
+    {
+        "id": 8,
+        "title": "Kebab",
+        "price": 38,
+        "category": "foods",
+        "image": "./image/kebab.png"
+    },
+    {
+        "id": 9,
+        "title": "Audi",
+        "price": 48000,
+        "category": "cars",
+        "image": "./image/audi.png"
+    },
+    {
+        "id": 10,
+        "title": "Mercedes",
+        "price": 58000,
+        "category": "cars",
+        "image": "./image/mercedes.png"
+    },
+    {
+        "id": 11,
+        "title": "Dodge",
+        "price": 78000,
+        "category": "cars",
+        "image": "./image/dodge.png"
+    },
+    {
+        "id": 12,
+        "title": "Microphone",
+        "price": 1500,
+        "category": "electronic devices",
+        "image": "./image/microphone.png"
+    },
+    {
+        "id": 13,
+        "title": "Mouse",
+        "price": 1000,
+        "category": "electronic devices",
+        "image": "./image/mouse.png"
+    },
+    {
+        "id": 14,
+        "title": "Playstation 5",
+        "price": 3000,
+        "category": "electronic devices",
+        "image": "./image/ps5.png"
+    }
+]
