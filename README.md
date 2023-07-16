@@ -1,3 +1,4 @@
+https://burakeldn-spend-smart.netlify.app/
 ##
 ![1](https://github.com/burakeldn/spend-smart/assets/96900698/ed72fd32-cebc-4c8c-a76a-68e9794cd2b2)
 ##
