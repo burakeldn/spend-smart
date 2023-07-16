@@ -42,15 +42,21 @@ function ProductList({ products, basket, setBasket, total, money }) {
           {`
                         .product-list {
                           display: grid;
-                          grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-                          grid-gap: 1px;
-                          
+                          grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+                          grid-gap: 20px;
+                        }
+                        
+                        @media (max-width: 768px) {
+                          .product-list {
+                            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
                           }
+                        }
+                        
                           
                           .product-item {
                             display: flex;
                             align-items: center;
-                            width: 520px;
+                            width: 320px;
                             border-radius: 10px;
                             margin: 20px;
                             padding: 10px;

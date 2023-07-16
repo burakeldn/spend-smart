@@ -8,7 +8,7 @@ import SearchBar from './components/SearchBar';
 
 function App() {
 
-  const [money, setMoney] = useState(100000)
+  const [money] = useState(100000)
   const [basket, setBasket] = useState([])
   const [total, setTotal] = useState(0)
   const [searchResults, setSearchResults] = useState([]);

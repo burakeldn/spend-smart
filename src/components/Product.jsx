@@ -35,11 +35,13 @@ function Product({ product, basket, setBasket, total, money }) {
             <div className="product-price">{product.price}</div>
             <div className="product-actions">
                 <button disabled={!basketItem} className="sell-button" onClick={removeBasket}>Sell</button>
-                <span className="amount">{basketItem && basketItem.amount || 0}</span>
+                <span className="amount">{basketItem && basketItem.amount | 0}</span>
                 <button disabled={total + product.price > money} className="buy-button" onClick={addBasket}>Buy</button>
             </div>
             <style >
                 {`   
+
+      
                     .product img {
                         width: 100%;
                         max-height: 200px;
